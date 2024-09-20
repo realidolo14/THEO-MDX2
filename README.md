@@ -1,6 +1,6 @@
 # THEO-MD(X2)
 <p align="center">
-<a href="https://github.com/techtheo"><img title="Author" src="https://i.ibb.co/W5grzHJ/pk.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/techtheo"><img title="Author" src="https://i.postimg.cc/kXv7hkSC/theogod.jpg"></a>
 
 
   <!-- <p align="center">
